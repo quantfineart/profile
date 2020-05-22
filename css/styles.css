@@ -1,0 +1,24 @@
+body {
+  background-color: #eaf6f6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr {
+  background-color: #eaf6f6;
+  border-style: none;
+  border-top-style: dotted;
+  width: 2%;
+  border-width: 6px;
+  border-color: grey;
+}
+
+h1 {
+ color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+  
+}
+
+
+
