@@ -1,9 +1,10 @@
 body {
-  background-color: #eaf6f6;
+  /* background-color: #e4f9ff; 
+  background-color:#dde7f2;*/
+  margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 hr {
-  background-color: #eaf6f6;
   border-style: none;
   border-top-style: dotted;
   width: 2%;
@@ -12,12 +13,41 @@ hr {
 }
 
 h1 {
- color: #66BFBF;
+ color: #66bfbf;
 }
 
 h3 {
-  color: #66BFBF;
+  color: #66bfbf;
   
+}
+
+img:hover{
+  opacity: 0.5;
+}
+
+
+div {
+  margin-top:0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  
+}
+
+.top-container {
+  background-color:#eaf6f6; 
+  padding: 10px;
+  
+}
+
+.middle-container{
+  background-color: purple;
+  height:100px;
+}
+
+.bottom-container{
+  background-color: palegreen;
+  height: 100px;
 }
 
 
